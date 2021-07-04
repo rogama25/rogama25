@@ -1,4 +1,4 @@
-Hey! I'm a Computer Science student and here I have some of the projects I made.
+Hey! I'm a Computer Science student and here I upload some of the projects I make.
 
 Currently I mainly program in Python, but I also know some C, Java and I'm learning web technologies and Rust!
 
